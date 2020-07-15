@@ -8,7 +8,7 @@
 
 ## 不同扩容倍数下的误差
 
-![image](https://github.com/skyrimgo/spark-kmeans/raw/master/src/main/resources/results.png?raw=true)
+![image](https://github.com/skyrimgo/spark-kmeans/raw/master/src/main/resources/time.png?raw=true)
 
 ## 算法加速比
 
